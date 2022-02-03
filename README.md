@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selahattin @Anky2s
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me selahattinbal06@gmail.com
 
