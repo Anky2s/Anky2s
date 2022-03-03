@@ -6,7 +6,7 @@
 
 ### Connect With Me
 
-[<img align="left" alt="Akanksha Singh | Website" width="28px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />][website]
+[<img align="left" alt="Medium" width="28px" src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" />][https://medium.com/@selahattinbal06]
 [<img align="left" alt="Akanksha Singh | YouTube" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="Akanksha Singh | Twitter" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" />][twitter]
 [<img align="left" alt="Akanksha Singh | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
