@@ -6,7 +6,7 @@
 
 ### Connect With Me
 [<img align="left" alt="Mail" width="28px" src="https://media.istockphoto.com/vectors/mail-post-envelope-icon-shape-postage-letter-logo-symbol-email-sign-vector-id1189293453?k=20&m=1189293453&s=170667a&w=0&h=0qLb01CW7QhspfsfOBzXvzAz0rRB8jT-mMytGkgsqP0=" />][email]
-[<img align="left" alt="Medium" width="28px" src="http://logok.org/wp-content/uploads/2020/10/Medium-logo-2020-640x480.png" />][medium]
+[<img align="left" alt="Medium" width="28px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" />][medium]
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 <br />
