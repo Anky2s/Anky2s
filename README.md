@@ -14,7 +14,7 @@
 
 ### Languages and Tools
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img width="48px" heigth="48px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 [linkedin]: https://www.linkedin.com/in/selahattin-bal/
