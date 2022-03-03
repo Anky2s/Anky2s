@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Selahattin @selahattin-bal
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React and Angular
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me selahattinbal06@gmail.com
 
 ### Connect With Me
