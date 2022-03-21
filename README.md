@@ -13,7 +13,7 @@
 
 ### Languages and Tools
 
-<img width="48px" src="https://w7.pngwing.com/pngs/620/322/png-transparent-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle-logo.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img width="48px" src="https://img.icons8.com/color/344/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img width="48px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img width="48px" src="https://img.icons8.com/color/344/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 [linkedin]: https://www.linkedin.com/in/selahattin-bal/
