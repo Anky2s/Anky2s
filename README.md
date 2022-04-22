@@ -8,6 +8,7 @@
 [<img align="left" alt="Medium" width="28px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" />][medium]
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+[<img align="left" alt="Youtube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
 <br />
 <br />
 
@@ -21,3 +22,4 @@
 [instagram]: https://www.instagram.com/bal_se
 [medium]: https://medium.com/@selahattinbal06
 [email]: mailto:selahattinbal06@gmail.com
+[youtube]:https://www.youtube.com/channel/UCzYsqLTYcsSozc8t50KLF-Q
