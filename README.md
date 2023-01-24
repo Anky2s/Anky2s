@@ -4,8 +4,7 @@
 - 📫 How to reach me selahattinbal06@gmail.com
 
 ### Connect With Me
-[<img align="left" alt="Mail" width="28px" src="![image](https://user-images.githubusercontent.com/82505487/214252421-458fcf69-e9a2-407e-b6f1-3fd44d65718a.png)![Uploading image.png…]()
-" />][email]
+[<img align="left" alt="Mail" width="28px" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" />][email]
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 [<img align="left" alt="Youtube" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
