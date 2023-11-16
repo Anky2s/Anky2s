@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selahattin @selahattin-bal
 - 👀 I’m interested in Web Development
-- 🌱 I’m a Front-End Web Developer.
+- 🌱 I’m a Front-End Developer.
 - 📫 How to reach me selahattinbal06@gmail.com
 
 ### Connect With Me
