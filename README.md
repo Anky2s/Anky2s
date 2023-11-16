@@ -13,8 +13,8 @@
 
 ### Languages and Tools
 
-<img width="36px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" /> <img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"/> <img width="36px"  
- src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img width="48px" src="https://img.icons8.com/color/344/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img width="36px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png" /> <img width="36px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png"/> <img 
+ src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img width="48px" src="https://img.icons8.com/color/344/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 [linkedin]: https://www.linkedin.com/in/selahattin-bal/
